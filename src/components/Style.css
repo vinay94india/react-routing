@@ -1,0 +1,12 @@
+.navbar{
+    background-color: #121212;
+    padding: 10px 20px;
+}
+.navbar .links{
+text-decoration: none;
+color: #999;
+padding: 10px;
+}
+.navbar .links:hover{
+    text-decoration: underline;
+}
